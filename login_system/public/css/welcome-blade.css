@@ -1,0 +1,40 @@
+.antialiased{
+    background-color:#E7E6E1;
+}
+h1{
+    color: #314E52;
+}
+.login{
+    border-style: none;
+    border-width: 2px;
+   border-radius: 20px;
+  
+}
+.signup{
+    border-style: none;
+   border-radius: 20px;
+   background-color: #314E52;
+  
+}
+
+footer{
+    border: none;
+    background-color: #314E52;
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    color: white;
+    flex-wrap: wrap;
+    height: auto;
+    
+}
+.ft-3{
+    height: 80px;
+    width: 320px;
+    display: flex;
+    padding: 20px;
+  
+}
+h4{
+    color: white;
+}
