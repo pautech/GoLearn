@@ -19,7 +19,7 @@
     <body class="antialiased">
             <nav class="navbar navbar-light ">
                 <div class="container">
-                     <a class="navbar-brand" href="#">
+                     <a class="navbar-brand" href="http://127.0.0.1:8000/">
                      <img class="logo"src="/img/logo.png" alt="logo" width="120" height="30">
                     </a>
                     <ul class="nav justify-content-end">
