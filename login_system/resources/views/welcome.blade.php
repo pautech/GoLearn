@@ -39,9 +39,9 @@
                 </div>
             </nav>
             <div class="container mt-5">
-                <div class="row">
+                <div class="row ">
                     <div class="col-7">
-                    <img src="/img/img-2.png" alt="woman holding laptop">
+                    <img src="/img/img-2.png" alt="woman holding laptop "width="500" height="500">
                     </div>
                     <div class="col">
                     <img src="img/logo.png" alt="logo" width="130" height="30">
@@ -167,7 +167,7 @@
                 --}}
             </div>
         </div>
-        <footer class="">
+        <footer class="container-fluid">
             <div class="ft-3">
                 <img src="img/first.png" alt="clicking start button" width="80" height="50">
                 <div class="text"><h6>Courses you can complete in a day</h6>

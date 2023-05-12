@@ -25,8 +25,10 @@ footer{
     padding: 10px;
     color: white;
     flex-wrap: wrap;
-    height: auto;
-    
+    flex-shrink: 0;
+    position: absolute;
+    bottom: 0;
+    height: 6.5rem;    
 }
 .ft-3{
     height: 80px;
