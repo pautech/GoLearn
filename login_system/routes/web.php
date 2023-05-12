@@ -18,6 +18,8 @@ use App\Http\Controllers\Auth\GoogleSocialiteController;
 Route::get('/', function () {
     return view('welcome'); 
 });
+
+
 Route::get('auth/google', [GoogleSocialiteController::class, 'redirectToGoogle']);  // redirect to google login
 Route::get('callback/google', [GoogleSocialiteController::class, 'handleCallback']);    // callback route after google account chosen
 
