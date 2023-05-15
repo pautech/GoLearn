@@ -24,10 +24,10 @@
                     </a>
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
-                            <a class="nav-link active text-dark border-bottom fw-bold" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active text-dark border-bottom fw-bold" aria-current="page" href="http://127.0.0.1:8000">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" href="#">About Us</a>
+                            <a class="nav-link text-dark" href="/about">About Us</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" href="#">Courses</a>
