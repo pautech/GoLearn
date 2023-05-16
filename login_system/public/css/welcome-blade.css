@@ -19,15 +19,15 @@ h1{
 
 footer{
     border: none;
-    background-color: #314E52;
+    background-color: hsl(187, 25%, 26%);
     display: flex;
     gap: 50px;
     padding: 10px;
     color: white;
     flex-wrap: wrap;
     flex-shrink: 0;
-    position: absolute;
-    bottom: 0;
+   
+
     height: 6.5rem;    
 }
 .ft-3{
@@ -88,5 +88,44 @@ h4{
   .slider-buttons button:hover {
     background-color: #000000;
     color: #ffffff;
+  }
+  .social-icons {
+    display: flex;
+
+  }
+  
+  .social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0 5px;
+  }
+  
+  .social-icon i {
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .facebook {
+    background-color: #3b5998;
+  }
+  
+  .twitter {
+    background-color: #55acee;
+  }
+  
+  .instagram {
+    background-color: #c32aa3;
+  }
+  
+  .pinterest {
+    background-color: #bd081c;
+  }
+  
+  .youtube {
+    background-color: #cd201f;
   }
   
