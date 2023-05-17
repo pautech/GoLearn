@@ -43,5 +43,113 @@
                     </ul>
                 </div>
             </nav>
+
+            <div class="container bg-secondary p-xl-5">
+                <div class="row">
+                    <div class="col text-center">
+                    <h1 class="text-white">Empower Yourself for Free: Learn. Grow. Succeed!</h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h1 class="fs-5 fw-bold">Web Development Essentials: Building Websites and Applications</h1>
+                <p> Learn HTML, CSS, JavaScript, and popular frameworks like React and Node.js. Master responsive design, database management, web security, and performance optimization. 
+With hands-on projects, gain the skills to create dynamic websites and launch a successful career in web development.
+                </p>
+                <div class="container">
+                <div class="container">
+                <div class="row p-1">
+                            <div class="col">
+                            <img src="img/C-1.jpg" alt="" width="140" height="30">
+                            <h4>HTML and CSS Fundamentals</h4>
+                            <p>Build web pages using HTML for structure and CSS for styling.</p>
+                            <h3>$0.00 (FREE)</h3>
+                            <button type="button" class="btn btn-success active">Start Now</button>
+                            </div>
+                            <div class="col">
+                            <img src="img/c-4.jpg" alt=""width="140" height="30">
+                            <h4>JavaScript for Web Development</h4>
+                            <p>Learn essential JavaScript programming for interactive web application.</p>
+                            <h3>$0.00 (FREE)</h3>
+                            <button type="button" class="btn btn-success active">Start Now</button>
+                             </div>
+                             <div class="col">
+                             <img src="img/c-3.jpg" alt=""width="140" height="30">
+                            <h4>Responsive Web Design</h4>
+                            <p>Create adaptable websites that respond to different devices and screen sizes.</p>
+                            <h3>$0.00 (FREE)</h3>
+                            <button type="button" class="btn btn-success active">Start Now</button>
+                             </div>
+                             <div class="col">
+                             <img src="img/c-2.jpg" alt=""width="140" height="30">
+                            <h4>Front-End Web Development</h4>
+                            <p>Explore HTML, CSS, JavaScript frameworks, and responsive design principles.</p>
+                            <h3>$0.00 (FREE)</h3>
+                            <button type="button" class="btn btn-success active">Start Now</button>
+                             </div>
+                             <div class="col">
+                             <img src="img/c-6.jpg" alt=""width="140" height="30">
+                            <h4>Back-End Web Development</h4>
+                            <p>Focus on server-side technologies, databases, server deployment, and API integration.</p>
+                            <h3>$0.00 (FREE)</h3>
+                            <button type="button" class="btn btn-success active">Start Now</button>
+                             </div>
+                            </div>
+                </div>
+                </div>
+            </div>
+            <div class="container-fluid bg-secondary">
+            <div class="row">
+                <div class="col text-white">
+                <div class="d-flex">
+                    <img src="img/logo.png" alt=""width="120"height="30">
+                    <div class="mt-4 p-3">
+                        <h1>GoLearn</h1>
+                        <p>A HUB For Learning</p>
+                    </div>
+                </div>
+                <p2>We're YOUR ONE-STOP-SHOP FOR IT LEARNING</p2>
+                <P>WITH A RANGE OF COURSE AND RESOURCES</P>
+                <P>THAT ARE ALWAYS WORTH EXPLORING.</P>
+
+                <h4 class="mt-4">Connect with GoLearn</h4>
+                <div class="social-icons mt-2 p-2">
+                <a href="#" class="social-icon facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="social-icon twitter"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="social-icon instagram"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="social-icon pinterest"><i class="fab fa-pinterest-p"></i></a>
+                <a href="#" class="social-icon youtube"><i class="fab fa-youtube"></i></a>
+                </div>
+
+                </div>
+                <div class="col p-5">
+                <div class="mb-5">
+                <h2>Support</h2>
+                <h4>Contact US</h4>
+                <h4>FAQ</h4>
+                </div>
+            
+                <h2>Explore</h2>
+                <h4>about GoLearn</h4>
+                <h4>courses</h4>
+                <h4>Careers</h4>
+                <h4>GOLEARN ACCESS</h4>
+                </div>
+                <div class="col p-5">
+                <div class="container text-white">
+                    <h2 >Subscribe to Our Newsletter</h2>
+                    <form>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Subscribe Now</button>
+                    </form>
+                </div>
+
+                </div>
+  </div>
+</div>
 </body>
 </html>
