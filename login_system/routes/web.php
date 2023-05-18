@@ -24,6 +24,9 @@ Route::get('/about', function () {
 Route::get('/courses', function () {
     return view('courses'); 
 });
+Route::get('/contact', function () {
+    return view('contact'); 
+});
 
 Route::get('auth/google', [GoogleSocialiteController::class, 'redirectToGoogle']);  // redirect to google login
 Route::get('callback/google', [GoogleSocialiteController::class, 'handleCallback']);    // callback route after google account chosen

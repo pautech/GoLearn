@@ -38,7 +38,7 @@
                             <a class="nav-link text-dark active border-bottom fw-bold" href="/courses">Courses</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" href="#" >Contact</a>
+                            <a class="nav-link text-dark" href="/contact" >Contact</a>
                         </li>
                     </ul>
                 </div>
